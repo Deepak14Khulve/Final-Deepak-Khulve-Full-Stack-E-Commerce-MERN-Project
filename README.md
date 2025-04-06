@@ -65,39 +65,19 @@ By leveraging modern web technologies, this e-commerce platform will provide bus
 
 ### Cloning the Repository
 
-To copy or clone this repository to your local machine, use the following commands:
+To copy or clone this repository to your local machine, use the following link:
 
-```bash
 # Clone the repository
 git clone https://github.com/Deepak14Khulve/Final-Deepak-Khulve-Full-Stack-E-Commerce-MERN-Project
 
-```bash
-# Important links
+### Important links
 MongoDB: https://www.mongodb.com/
-
-```bash
 Express: https://expressjs.com/
-
-```bash
-React: https://react.dev/
-
-```bash
+React: https://react.dev
 Nodejs: https://nodejs.org/en
-
-```bash
 Redux-Toolkit: https://react-redux.js.org/introducti...
-
-```bash
 React Router: https://reactrouter.com/en/main/start...
-
-```bash
 Mongoose: https://mongoosejs.com/
-
-```bash
 JsonWebToken: https://www.npmjs.com/package/jsonweb...
-
-```bash
 Dotenv: https://www.npmjs.com/package/dotenv
-
-```bash
 VsCode: https://code.visualstudio.com/
