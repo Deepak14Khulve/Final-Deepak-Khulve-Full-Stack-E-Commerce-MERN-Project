@@ -45,21 +45,21 @@ The backend, powered by Node.js and Express.js, manages user authentication, pro
 ### How to Use
 
 This project aims to develop a scalable, secure, and user-friendly e-commerce platform using the MERN stack (MongoDB, Express.js, React, Node.js). The system will offer:
-- User Authentication: Secure login and registration using JWT authentication.
-- Product Management: A flexible and easy-to-use product catalog system.
-- Shopping Cart & Checkout: A dynamic cart system with real-time updates.
-- Secure Payment Integration: Seamless transactions using Stripe or PayPal.
-- Admin Dashboard: Role-based access for managing orders, users, and inventory.
-- Real-time Order Tracking: Updates for users on order status and delivery.
+- `User Authentication`: Secure login and registration using JWT authentication.
+- `Product Management`: A flexible and easy-to-use product catalog system.
+- `Shopping Cart & Checkout`: A dynamic cart system with real-time updates.
+- `Secure Payment Integration`: Seamless transactions using Stripe or PayPal.
+- `Admin Dashboard`: Role-based access for managing orders, users, and inventory.
+- `Real-time Order Tracking`: Updates for users on order status and delivery.
 By leveraging modern web technologies, this e-commerce platform will provide businesses with an efficient online storefront while ensuring a fast, secure, and convenient shopping experience for customers.
 
 ---
 
 ## Tools and Libraries
 
-- Frontend: React.js (with Redux for state management).
-- Backend: Node.js with Express.js
-- Database: MongoDB (NoSQL database for flexible data storage).
+- `Frontend`: React.js (with Redux for state management).
+- `Backend`: Node.js with Express.js
+- `Database`: MongoDB (NoSQL database for flexible data storage).
   
 ---
 
@@ -70,6 +70,8 @@ To copy or clone this repository to your local machine, use the following comman
 ```bash
 # Clone the repository
 git clone https://github.com/Deepak14Khulve/Final-Deepak-Khulve-Full-Stack-E-Commerce-MERN-Project
+
+---
 
 #Important Links
 MongoDB: https://www.mongodb.com/
