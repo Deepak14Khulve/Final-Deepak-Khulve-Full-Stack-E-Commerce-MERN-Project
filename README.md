@@ -63,7 +63,7 @@ By leveraging modern web technologies, this e-commerce platform will provide bus
   
 ---
 
-### Cloning the Repository
+## Cloning the Repository
 
 To copy or clone this repository to your local machine, use the following link:
 
@@ -72,11 +72,11 @@ To copy or clone this repository to your local machine, use the following link:
 ### Important links
 - MongoDB: https://www.mongodb.com/
 - Express: https://expressjs.com/
-React: https://react.dev
-Nodejs: https://nodejs.org/en
-Redux-Toolkit: https://react-redux.js.org/introducti...
-React Router: https://reactrouter.com/en/main/start...
-Mongoose: https://mongoosejs.com/
-JsonWebToken: https://www.npmjs.com/package/jsonweb...
-Dotenv: https://www.npmjs.com/package/dotenv
-VsCode: https://code.visualstudio.com/
+- React: https://react.dev
+- Nodejs: https://nodejs.org/en
+- Redux-Toolkit: https://react-redux.js.org/introducti...
+- React Router: https://reactrouter.com/en/main/start...
+- Mongoose: https://mongoosejs.com/
+- JsonWebToken: https://www.npmjs.com/package/jsonweb...
+- https://www.npmjs.com/package/dotenv
+- VsCode: https://code.visualstudio.com/
