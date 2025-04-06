@@ -3,8 +3,6 @@ This is final Project of  EY GDS-AICTE-6 Weeks Internship.
 
 ## Project Title: Full-Stack-E-Commerce-MERN-APP
 
----
-
 ### Overview
 
 This project is a full-stack e-commerce web application built using the MERN stack (MongoDB, Express.js, React, and Node.js). The platform provides a seamless and scalable solution for businesses to sell products online while offering a smooth and interactive shopping experience for customers.
@@ -78,5 +76,5 @@ To copy or clone this repository to your local machine, use the following link:
 - React Router: https://reactrouter.com/en/main/start...
 - Mongoose: https://mongoosejs.com/
 - JsonWebToken: https://www.npmjs.com/package/jsonweb...
-- https://www.npmjs.com/package/dotenv
+- Dotenv: https://www.npmjs.com/package/dotenv
 - VsCode: https://code.visualstudio.com/
