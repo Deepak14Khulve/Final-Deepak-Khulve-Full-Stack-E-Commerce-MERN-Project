@@ -2,6 +2,7 @@
 This is final Project of  EY GDS-AICTE-6 Weeks Internship. 
 
 ## Project Title: Full-Stack-E-Commerce-MERN-APP
+---
 
 ### Overview
 
@@ -54,6 +55,8 @@ By leveraging modern web technologies, this e-commerce platform will provide bus
 ---
 
 ## Tools and Libraries
+
+---
 
 - `Frontend`: React.js (with Redux for state management).
 - `Backend`: Node.js with Express.js
