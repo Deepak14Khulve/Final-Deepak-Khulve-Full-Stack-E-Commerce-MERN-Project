@@ -67,12 +67,11 @@ By leveraging modern web technologies, this e-commerce platform will provide bus
 
 To copy or clone this repository to your local machine, use the following link:
 
-# Clone the repository
-git clone https://github.com/Deepak14Khulve/Final-Deepak-Khulve-Full-Stack-E-Commerce-MERN-Project
+ https://github.com/Deepak14Khulve/Final-Deepak-Khulve-Full-Stack-E-Commerce-MERN-Project
 
 ### Important links
-MongoDB: https://www.mongodb.com/
-Express: https://expressjs.com/
+- MongoDB: https://www.mongodb.com/
+- Express: https://expressjs.com/
 React: https://react.dev
 Nodejs: https://nodejs.org/en
 Redux-Toolkit: https://react-redux.js.org/introducti...
